@@ -1,0 +1,20 @@
+C:\Users\Adriana  Abad\Desktop\Programacion II\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.csprojAssemblyReference.cache
+C:\Users\Adriana  Abad\Desktop\Programacion II\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.AssemblyInfoInputs.cache
+C:\Users\Adriana  Abad\Desktop\Programacion II\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.AssemblyInfo.cs
+C:\Users\Adriana  Abad\Desktop\Programacion II\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.AssemblyInfo.cs
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\bin\Debug\netcoreapp3.1\Principal.exe
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\bin\Debug\netcoreapp3.1\Principal.deps.json
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\bin\Debug\netcoreapp3.1\Principal.runtimeconfig.json
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\bin\Debug\netcoreapp3.1\Principal.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\bin\Debug\netcoreapp3.1\Principal.dll
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\bin\Debug\netcoreapp3.1\Principal.pdb
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.dll
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.pdb
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.genruntimeconfig.cache
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\obj\Debug\netcoreapp3.1\Principal.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Sistema de RHH\Principal\Principal\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
